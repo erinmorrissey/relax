@@ -2,9 +2,7 @@
 
 Relax is a Flutter application built for the Flutter Create contest. It gives the user the choice of four nature sounds and rotates through related background images while the sounds are playing.
 
-<img src="https://i.imgur.com/P8FRIxS.png" width="300">
-<img src="https://i.imgur.com/Lnh3TMX.png" width="300">
-<img src="https://i.imgur.com/cbEh7GP.png" width="300">
+<img src="https://i.imgur.com/ndH9Iqq.png">
 
 ## Running the app
 
