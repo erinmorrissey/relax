@@ -9,6 +9,7 @@ const title = TextStyle(color: Colors.white, fontSize: 36, letterSpacing: 13.0, 
 void main() {
   runApp(MaterialApp(
     theme: ThemeData(fontFamily: 'Nunito'),
+    debugShowCheckedModeBanner: false,
     home: HomeRoute(),
   ));
 }
